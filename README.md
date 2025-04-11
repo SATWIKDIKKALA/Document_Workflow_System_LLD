@@ -1,7 +1,7 @@
 Document Workflow System – Requirements
 
 Statuses Supported:
-The system should support a document that can exist in one of three statuses:
+The system should support a document that can exist in one of three statuses: 
 Draft, Under Review, and Published.
 
 Draft Editable:
